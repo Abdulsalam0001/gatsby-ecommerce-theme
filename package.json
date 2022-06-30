@@ -1,11 +1,11 @@
 {
-  "name": "Masters Of Arts",
+  "name": "gatsby-ecommerce-theme",
   "version": "1.0.0",
-  "private": false,
-  "description": "Masters Of Arts",
+  "private": true,
+  "description": "An e-commerce theme designed by Matter Design for Netlify.",
   "author": "Matter Design",
   "keywords": [
-    "Moa","Masters Of Arts","sarah","sarah_oyinade","oyinade"
+    "gatsby"
   ],
   "scripts": {
     "develop": "gatsby develop",
