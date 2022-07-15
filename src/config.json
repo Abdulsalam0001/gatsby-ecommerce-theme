@@ -56,7 +56,7 @@
           "link": "/support#returns"
         },
         {
-          "text": "How to use this theme",
+          "text": "Who we are ",
           "link": "/how-to-use"
         }
       ]
@@ -68,47 +68,43 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Art",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "All Art",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Abstract Art",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Wall Mural ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Custom Paintings",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "men",
+         "categoryLabel": "Art",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "All Art",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Abstract Art",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Wall Mural ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "pants",
+              "menuLabel": "Custom Paintings",
               "menuLink": "/shop"
             }
           ]
@@ -117,11 +113,11 @@
           "categoryLabel": "accessories",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "Scuptules",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "Art bags",
               "menuLink": "/shop"
             }
           ]
